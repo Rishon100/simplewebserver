@@ -1,6 +1,8 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <html>
+    <h1 align="center">V Rishon Anand (24900460) </h1>
+        
      <body>
           <pre> <ul type="none">
               <li><b> Device name </b>    DESKTOP-MOHHBTU </li>   
